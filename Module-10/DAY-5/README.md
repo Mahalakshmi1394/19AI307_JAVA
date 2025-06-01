@@ -13,8 +13,8 @@ e.	Use .size() method to get and print the number of elements in the set.
  ```
 /*
 Program to implement a LINKEDHASH SET
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: MAHALAKSHMI U
+RegisterNumber: 212222060141
 */
 ```
 
