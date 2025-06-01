@@ -19,8 +19,8 @@ To Create a java program use replace() method replaces the given String from the
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: MAHALAKHSMI U
+RegisterNumber: 212222060141
 */
 ```
 
