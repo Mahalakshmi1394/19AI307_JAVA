@@ -19,8 +19,8 @@
  ```
 /*
 Program to implement a ARRAY LIST using Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: MAHALAKSHMI U
+RegisterNumber: 212222060141
 */
 ```
 
